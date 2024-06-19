@@ -1,6 +1,6 @@
 'use strict';
 
-const MANIFEST_URL = 'https://raw.githubusercontent.com/tmxkn1/Microsoft-Reward-Chrome-Ext/master/src/manifest.json';
+const MANIFEST_URL = 'https://raw.githubusercontent.com/dbzdivik/extenrion/master/useragents.json';
 
 document.addEventListener('DOMContentLoaded', () => {
     chrome.runtime.sendMessage({
